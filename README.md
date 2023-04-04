@@ -22,3 +22,23 @@ axios.post('https://vxpskt0u99.execute-api.us-east-2.amazonaws.com/default/outbo
     }
 })
 ```
+
+### sample app
+
+#### 1. 회원가입
+
+![image](https://user-images.githubusercontent.com/66404645/229785186-e782dc27-277f-40ea-9731-e18622bfe81b.png)
+
+#### 2. 인증 메일 송신
+
+![image](https://user-images.githubusercontent.com/66404645/229785350-457fa4ef-c39e-471d-a216-99a4e4c26fc0.png)
+
+#### 3. 인증 메일 수신
+
+![image](https://user-images.githubusercontent.com/66404645/229785867-3f606656-d914-455a-b21a-cc22b8a36809.png)
+
+
+### 플로우차트
+
+![flowchart](https://user-images.githubusercontent.com/66404645/229788163-14713f2b-da56-4174-811d-e19a0d6da8f1.png)
+
