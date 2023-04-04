@@ -12,7 +12,7 @@
             height: 100%;
         }
         .card {
-            width: 50%;
+            width: 80%;
             height: 50%;
             margin: auto;
         }
@@ -49,6 +49,7 @@
                 }
             })
             .then((response) => {
+                alert('인증 메일이 발송되었습니다!')
                 location.href = `./auth.html?email=${document.getElementById('email').value}`
             })
             .catch((error) => {
