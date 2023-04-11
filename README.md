@@ -1,6 +1,6 @@
 # 대동유어지도 이메일 인증
 
-#### api endpoint: https://vxpskt0u99.execute-api.us-east-2.amazonaws.com/default/outbound_mailer
+#### api endpoint: https://wtdhqxavjk.execute-api.us-east-2.amazonaws.com/auth/outbound_mailer
 
 #### signiture(axios)
 
